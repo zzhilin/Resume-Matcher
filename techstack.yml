@@ -1,0 +1,1092 @@
+repo_name: zzhilin/Resume-Matcher
+report_id: fd8973b48a1ff3ea640df63b749cb588
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-17T21:00:54+00:00'
+requested_by: srbhr
+provider: github
+branch: main
+detected_tools_count: 75
+tools:
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher
+  detection_source: Repo Metadata
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  version: 4.23.4
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: Cohere.com
+  description: Add cutting-edge language processing to any system
+  website_url: https://cohere.com/
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/101884/default_cf6d4a823cb5b37940800efc1e952b6a6c74e32a.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Subramanyam Challa
+  last_updated_on: 2023-08-05 16:37:30.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher
+  detection_source: Repo Metadata
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.25.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  version: 1.11.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: Streamlit
+  description: A Python app framework built specifically for Machine Learning and
+    Data Science teams
+  website_url: https://streamlit.io
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: Faker
+  description: Faker is a Python package that generates fake data for you
+  package_url: https://pypi.org/project/Faker
+  version: 19.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20068/default_271333e82c8d92d6ae0f197b10a9c1f791d7b37f.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: GitPython
+  description: Python Git Library
+  package_url: https://pypi.org/project/GitPython
+  version: 3.1.32
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19867/default_bd86f80ade48cfe191d5781a2efa0e66fa22163a.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+  vulnerabilities:
+  - name: Untrusted search path under some conditions on Windows allows arbitrary
+      code execution
+    cve_id: CVE-2024-22190
+    cve_url: https://github.com/advisories/GHSA-2mqj-m65w-jghx
+    detected_date: Jan 11
+    severity: high
+    first_patched: 3.1.41
+  - name: Blind local file inclusion
+    cve_id: CVE-2023-41040
+    cve_url: https://github.com/advisories/GHSA-cwvm-v4w8-q58c
+    detected_date: Sep 7
+    severity: moderate
+    first_patched: 3.1.37
+- name: Markdown
+  description: Python implementation of Markdown
+  package_url: https://pypi.org/project/Markdown
+  version: 3.4.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19908/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:06:11.000000000 Z
+- name: MarkupSafe
+  description: Safely add untrusted strings to HTML/XML markup
+  package_url: https://pypi.org/project/MarkupSafe
+  version: 2.1.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19945/default_0b0a94e1bdf3e64deeccb23892ca2335bdc30e4f.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: PyYAML
+  description: YAML parser and emitter for Python
+  package_url: https://pypi.org/project/PyYAML
+  version: '6.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: Pygments
+  description: Pygments is a syntax highlighting package written in Python
+  package_url: https://pypi.org/project/Pygments
+  version: 2.15.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19858/default_4d761b2257a1435539d6dc92346974d9f1d55c70.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: Pympler
+  description: A development tool to measure
+  package_url: https://pypi.org/project/Pympler
+  version: 1.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: altair
+  description: 'Altair: A declarative statistical visualization library for Python'
+  package_url: https://pypi.org/project/altair
+  version: 5.0.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: attrs
+  description: Classes Without Boilerplate
+  package_url: https://pypi.org/project/attrs
+  version: 23.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19857/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: beautifulsoup4
+  description: Screen-scraping library
+  package_url: https://pypi.org/project/beautifulsoup4
+  version: 4.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: blinker
+  description: Fast, simple object-to-object and broadcast signaling
+  package_url: https://pypi.org/project/blinker
+  version: 1.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20273/default_847617f8273bac4dd5921370b0684f29c3397a68.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: cachetools
+  description: Extensible memoizing collections and decorators
+  package_url: https://pypi.org/project/cachetools
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19950/default_611a1328f69b729fac0a7b8bf87ff04e8ce35e17.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: certifi
+  description: Python package for providing Mozilla's CA Bundle
+  package_url: https://pypi.org/project/certifi
+  version: 2023.5.7
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19849/default_75c38a39b9f0062814489e2ec2cbfca0ca15d9ba.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+  vulnerabilities:
+  - name: Removal of e-Tugra root certificate
+    cve_id: CVE-2023-37920
+    cve_url: https://github.com/advisories/GHSA-xqr8-7jwr-rhp7
+    detected_date: Jul 26
+    severity: high
+    first_patched: 2023.7.22
+- name: charset-normalizer
+  description: The Real First Universal Charset Detector
+  package_url: https://pypi.org/project/charset-normalizer
+  version: 3.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: click
+  description: Composable command line interface toolkit
+  package_url: https://pypi.org/project/click
+  version: 8.1.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19830/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: cohere
+  description: Python SDK for the Cohere API
+  package_url: https://pypi.org/project/cohere
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Subramanyam Challa
+  last_updated_on: 2023-08-05 16:37:30.000000000 Z
+- name: cymem
+  description: Manage calls to calloc/free through Cython
+  package_url: https://pypi.org/project/cymem
+  version: 2.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: cytoolz
+  description: 'Cython implementation of Toolz: High performance functional utilities'
+  package_url: https://pypi.org/project/cytoolz
+  version: 0.12.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20287/default_f4d4a579a1fa1de2789e2ae83a74ca7e8dff6982.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: decorator
+  description: Decorators for Humans
+  package_url: https://pypi.org/project/decorator
+  version: 5.1.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19911/default_bc82f0b22ca8fd942e21c317967f4ab61f43eb2c.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: fonttools
+  description: Tools to manipulate font files
+  package_url: https://pypi.org/project/fonttools
+  version: 4.41.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20488/default_13373c456cf04faa5b7f33cd4c4095cbd571dfce.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+  vulnerabilities:
+  - name: fonttools XML External Entity Injection (XXE) Vulnerability
+    cve_id: CVE-2023-45139
+    cve_url: https://github.com/advisories/GHSA-6673-4983-2vx5
+    detected_date: Jan 10
+    severity: high
+    first_patched: 4.43.0
+- name: gitdb
+  description: Git Object Database
+  package_url: https://pypi.org/project/gitdb
+  version: 4.0.10
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: idna
+  description: Internationalized Domain Names in Applications
+  package_url: https://pypi.org/project/idna
+  version: '3.4'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19863/default_f24e00e4cb7620e436f9d06e0305070e1335922a.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: importlib-metadata
+  description: Read metadata from Python packages
+  package_url: https://pypi.org/project/importlib-metadata
+  version: 6.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20000/default_7c419d5d5f0cfad7886b95266eae7ba305cedacf.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: jellyfish
+  description: A library for doing approximate and phonetic matching of strings
+  package_url: https://pypi.org/project/jellyfish
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: joblib
+  description: 'Lightweight pipelining: using Python functions as pipeline jobs'
+  package_url: https://pypi.org/project/joblib
+  version: 1.3.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20033/default_5a21cf44b42c3ef13f57dcd42ae753240ea7e808.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: jsonschema
+  description: An implementation of JSON Schema validation for Python
+  package_url: https://pypi.org/project/jsonschema
+  version: 4.18.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19854/default_3fbfa1d88b4408e903227ac391490e8efb8dea58.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: kiwisolver
+  description: A fast implementation of the Cassowary constraint solver
+  package_url: https://pypi.org/project/kiwisolver
+  version: 1.4.4
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20772/default_b92e3d801a6b8cc7a378e4f7c25f52a138a86391.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: lxml
+  description: Powerful and Pythonic XML processing library combining libxml2/libxslt
+    with the ElementTree API
+  package_url: https://pypi.org/project/lxml
+  version: 4.9.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19835/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: more-itertools
+  description: More routines for operating on iterables, beyond itertools
+  package_url: https://pypi.org/project/more-itertools
+  version: 9.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19947/default_0b0a94e1bdf3e64deeccb23892ca2335bdc30e4f.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:06:11.000000000 Z
+- name: murmurhash
+  description: Cython bindings for MurmurHash
+  package_url: https://pypi.org/project/murmurhash
+  version: 1.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: networkx
+  description: Python package for creating and manipulating graphs and networks
+  package_url: https://pypi.org/project/networkx
+  version: '3.1'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19877/default_8902c10687fbcd6273bdbe119fff40fa1180763f.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: nltk
+  description: Natural Language Toolkit
+  package_url: https://pypi.org/project/nltk
+  version: 3.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20023/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: packaging
+  description: Core utilities for Python packages
+  package_url: https://pypi.org/project/packaging
+  version: '23.1'
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19894/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  version: 2.0.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: plotly
+  description: An open-source, interactive graphing library for Python
+  package_url: https://pypi.org/project/plotly
+  version: 5.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20062/default_7d86b2789b7e98a881e37db483c09c6a1aa3e995.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: preshed
+  description: Cython hash table that trusts the keys are pre-hashed
+  package_url: https://pypi.org/project/preshed
+  version: 3.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: pyarrow
+  description: Python library for Apache Arrow
+  package_url: https://pypi.org/project/pyarrow
+  version: 12.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20366/default_20f72d65682b6cad9939bcf162d0ef14fced900c.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+  vulnerabilities:
+  - name: 'PyArrow: Arbitrary code execution when loading a malicious data file'
+    cve_id: CVE-2023-47248
+    cve_url: https://github.com/advisories/GHSA-5wvp-7f3h-6wmm
+    detected_date: Nov 10
+    severity: critical
+    first_patched: 14.0.1
+- name: pydantic
+  description: Data validation and settings management using python 3.6 type hinting
+  package_url: https://pypi.org/project/pydantic
+  version: 1.10.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20022/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: pymdown-extensions
+  description: Extension pack for Python Markdown
+  package_url: https://pypi.org/project/pymdown-extensions
+  version: '10.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20736/default_d7016f3b81d6dea370b4e255c96d7e3aa7e34373.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:06:11.000000000 Z
+- name: pyparsing
+  description: Python parsing module
+  package_url: https://pypi.org/project/pyparsing
+  version: 3.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19881/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  version: 2.8.2
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  version: '2023.3'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: regex
+  description: Alternative regular expression module, to replace re
+  package_url: https://pypi.org/project/regex
+  version: 2023.6.3
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19923/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.31.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: scikit-learn
+  description: A set of python modules for machine learning and data mining
+  package_url: https://pypi.org/project/scikit-learn
+  version: 1.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19898/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  version: 1.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: smart-open
+  description: Utils for streaming large files
+  package_url: https://pypi.org/project/smart-open
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: soupsieve
+  description: A modern CSS selector implementation for Beautiful Soup
+  package_url: https://pypi.org/project/soupsieve
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20367/default_f96848c380cbdcec99ab678e027c29229da52205.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: spacy
+  description: Industrial-strength Natural Language Processing
+  package_url: https://pypi.org/project/spacy
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20263/default_1842575018db691e6f93d8a9a1aa65cdc2a55c20.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:06:11.000000000 Z
+- name: srsly
+  description: Modern high-performance serialization utilities for Python
+  package_url: https://pypi.org/project/srsly
+  version: 2.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: tenacity
+  description: Retry code until it succeeds
+  package_url: https://pypi.org/project/tenacity
+  version: 8.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20027/default_fd02050783f95269bfcc5c4d11f1c75dd423cd1d.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: thinc
+  description: Practical Machine Learning for NLP
+  package_url: https://pypi.org/project/thinc
+  version: 8.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: toml
+  description: Python Library for Tom's Obvious, Minimal Language
+  package_url: https://pypi.org/project/toml
+  version: 0.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19912/default_bc82f0b22ca8fd942e21c317967f4ab61f43eb2c.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: toolz
+  description: List processing tools and functional utilities
+  package_url: https://pypi.org/project/toolz
+  version: 0.12.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20079/default_7ab6b1c940c208874d4a483f0d832c7b45b3d24e.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: tornado
+  description: Tornado is a Python web framework and asynchronous networking library
+  package_url: https://pypi.org/project/tornado
+  version: 6.3.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19860/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+  vulnerabilities:
+  - name: Tornado vulnerable to HTTP request smuggling via improper parsing of `Content-Length`
+      fields and chunk lengths
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-qppv-j76h-2rpx
+    detected_date: Aug 15
+    severity: moderate
+    first_patched: 6.3.3
+- name: tqdm
+  description: Fast, Extensible Progress Meter
+  package_url: https://pypi.org/project/tqdm
+  version: 4.65.0
+  license: MPL-2.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19846/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: tzlocal
+  description: Tzinfo object for the local timezone
+  package_url: https://pypi.org/project/tzlocal
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19922/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: urllib3
+  description: HTTP library with thread-safe connection pooling
+  package_url: https://pypi.org/project/urllib3
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19842/default_4604ff5dcb7f4d9c7b3833591c2142493951b19c.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+  vulnerabilities:
+  - name: urllib3's request body not stripped after redirect from 303 status changes
+      request method to GET
+    cve_id: CVE-2023-45803
+    cve_url: https://github.com/advisories/GHSA-g4mx-q9vg-27p4
+    detected_date: Oct 18
+    severity: moderate
+    first_patched: 2.0.7
+  - name: "`Cookie` HTTP header isn't stripped on cross-origin redirects"
+    cve_id: CVE-2023-43804
+    cve_url: https://github.com/advisories/GHSA-v845-jxx5-vc9f
+    detected_date: Oct 3
+    severity: moderate
+    first_patched: 2.0.6
+- name: validators
+  description: Python Data Validation for Humans™
+  package_url: https://pypi.org/project/validators
+  version: 0.20.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19964/default_61e35171bd9c0e5c5b88b2e4221ca242576ad8c0.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: wasabi
+  description: A lightweight console printing and formatting toolkit
+  package_url: https://pypi.org/project/wasabi
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
+- name: watchdog
+  description: Filesystem events monitoring
+  package_url: https://pypi.org/project/watchdog
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19927/default_bb29140b72c0fb9789e567bba0ef0ffadeaef5d4.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 19:36:14.000000000 Z
+- name: zipp
+  description: Backport of pathlib-compatible object wrapper for zip files
+  package_url: https://pypi.org/project/zipp
+  version: 3.16.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20247/default_47b8ee8db82e43d9eef35923435bd8cc855f3a1b.png
+  detection_source_url: https://github.com/zzhilin/Resume-Matcher/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: saurabhraidev
+  last_updated_on: 2023-07-17 20:00:01.000000000 Z
